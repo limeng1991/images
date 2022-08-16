@@ -1,9 +1,9 @@
-version: 1.2.0
+version: 1.1.0
 files:
-  - url: 蜂鸟转换.exe
-    sha512: t9Ypq0WTVO5/JrQYXatmIUeFdY44SyAVG+eKQcOSgTiqqFPWWwMo9AtK/kmzuF4YztXAQWM1O2HJoDZgZjC+Zg==
-    size: 37097643
-path: 蜂鸟转换.exe
-sha512: t9Ypq0WTVO5/JrQYXatmIUeFdY44SyAVG+eKQcOSgTiqqFPWWwMo9AtK/kmzuF4YztXAQWM1O2HJoDZgZjC+Zg==
-sha2: a0491d13ba41f6f482a728dde2e35404b978401b647fd16d8a3f0c591a4e6950
-releaseDate: '2022-08-16T05:03:50.046Z'
+  - url: 蜂鸟转换 Setup 1.1.0.exe
+    sha512: ySkSu9J2hyl8BE5ZKS95FpRMpql2J4wsV+WhoKm4gSgRkRfPnDVAXZ2IVDcpIGdxTAYg6DrvA1IumsiKqWBf0Q==
+    size: 37097496
+path: 蜂鸟转换 Setup 1.1.0.exe
+sha512: ySkSu9J2hyl8BE5ZKS95FpRMpql2J4wsV+WhoKm4gSgRkRfPnDVAXZ2IVDcpIGdxTAYg6DrvA1IumsiKqWBf0Q==
+sha2: 042d0ff3f4167ec4fdeb5f2948ad18a12b3cbd576a4c0d4142a962b0feca4bef
+releaseDate: '2022-08-16T06:03:22.202Z'
